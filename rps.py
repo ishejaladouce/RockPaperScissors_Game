@@ -14,7 +14,8 @@ elif (computer_choice == "rock" and user_choice == "scissors") or \
      (computer_choice == "paper" and user_choice == "rock") or \
      (computer_choice == "scissors" and user_choice == "paper"):
     print("You lose!")
-else:
+else: 
+
     print("Invalid choice. Please choose rock, paper, or scissors.")
 # This code implements a simple Rock, Paper, Scissors game.
 # The user inputs their choice, and the computer randomly selects one.
